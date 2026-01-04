@@ -1,18 +1,125 @@
-<h1 align="">Hello Earth 👋, I'm Mohammad Shajed</h1>
-<h3 align="">Frontend Developer from Chattogram, Bangladesh</h3>
+<h1 align="center">Hello 👋, I'm Muhammad Shajed</h1>
 
-- 🔭 I’m currently working at [IATL](https://iatlbd.com/)
-- 🌱 I’m currently learning **Backend Technology**
-- 💬 Ask me about **Javascript, React, Next, Typescript**
-- 📫 How to reach me **shajedsr@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shajedarrgh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shajedarrgh" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad.shajedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.shajedd" height="30" width="40" /></a>
-</p>
+**Frontend-focused Software Developer** | **React, Next.js & React Native Developer**  
+**Studying BSC in CSE** | **Diploma in Computer Technology (CMT)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaj-ed&show_icons=true&locale=en&layout=compact" alt="shaj-ed" /></p>
+---
+
+## 🎯 About Me
+
+<pre style="font-family: 'JetBrains Mono', monospace;">
+I'm a passionate frontend developer obsessed with building clean, scalable,
+and user-centric web & mobile applications. I transform complex business
+requirements into elegant digital solutions with React, TypeScript, and
+modern web technologies.
+</pre>
+
+Currently developing:
+- 🚀 **Business applications** — invoice systems, user management dashboards
+- 📱 **Mobile-first experiences** — React Native for cross-platform solutions
+- ⚙️ **System improvements** — refactoring, performance optimization, architecture
+- 📚 **Backend foundations** — diving deeper into Spring Boot & Java
+
+---
+
+## 💼 Work Experience
+
+**Frontend Developer | [IATL](https://www.iatlbd.com)**  
+*Jan 2024 – Present | 2+ years experience*
+
+- Built scalable **React & Next.js applications** for business dashboards and client portals  
+- Developed **cross-platform mobile apps** using React Native, integrating location tracking & reporting features  
+- Optimized performance and refactored legacy code for maintainability and scalability  
+- Collaborated with backend developers (Spring Boot & REST API) to deliver production-ready applications  
+- Implemented **state management** using React Query, Zustand, Formik, and Zod for type-safe forms  
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🎨 Frontend Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
+
+### 📦 State & Data Management
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=redux&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-2563EB?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+
+### 🛠️ Tools & Environment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
+---
+
+### ✨ My Coding Principles
+
+<pre style="font-family: 'JetBrains Mono', monospace;">
+const myApproach = {
+  architecture: "Clean & scalable",
+  types: "TypeScript everywhere (no 'any'!)",
+  components: "Reusable & composable",
+  code: "Self-documenting & maintainable",
+  performance: "Optimized & lightning-fast",
+  collaboration: "Open, transparent, learning"
+};
+</pre>
+
+---
+
+## 📊 GitHub Journey
+
+<pre style="font-family: 'JetBrains Mono', monospace;">
+🎯 Current Focus Areas:
+├─ 📈 Building performant React applications
+├─ 🏗️  Learning system design & architecture
+├─ 🔧 Contributing to open-source projects
+├─ 📚 Mastering Spring Boot for backend
+└─ 🚀 Shipping production-ready code daily
+</pre>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shajedwali&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**I'm always open to:**  
+💼 Frontend & React Native opportunities  
+🎯 Interesting project collaborations  
+🌱 Knowledge sharing & mentoring  
+💡 Building cool things together
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shajedsr.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaj-ed)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaj-ed)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+
+</div>
