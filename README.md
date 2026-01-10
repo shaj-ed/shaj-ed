@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Frontend-focused Software Developer** | **React, Next.js & React Native Developer**  
+**Frontend-focused Software Developer** | **React, Next.js & React Native**  
 **Studying BSC in CSE** | **Diploma in Computer Technology (CMT)**
 
 </div>
@@ -120,6 +120,6 @@ const myApproach = {
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shajedsr.email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaj-ed)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaj-ed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=web&logoColor=white)](https://shajeded.vercel.app)
 
 </div>
