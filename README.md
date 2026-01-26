@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Frontend-focused Software Developer** | **React, Next.js & React Native**  
+**Frontend-focused Software Developer** | **React, Next.js**  
 **Studying BSC in CSE** | **Diploma in Computer Technology (CMT)**
 
 </div>
@@ -22,7 +22,7 @@ Currently developing:
 - 🚀 **Business applications** — invoice systems, user management dashboards
 - 📱 **Mobile-first experiences** — React Native for cross-platform solutions
 - ⚙️ **System improvements** — refactoring, performance optimization, architecture
-- 📚 **Backend foundations** — diving deeper into Spring Boot & Java
+- 📚 **Backend foundations** — diving deeper into Backend Technology (Java Spring Boot)
 
 ---
 
