@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Frontend-focused Software Developer** | **React, Next.js**  
+**Frontend Developer** | **React, Next.js**  
 **Studying BSC in CSE** | **Diploma in Computer Technology (CMT)**
 
 </div>
@@ -32,7 +32,6 @@ Currently developing:
 *Jan 2024 – Present | 2+ years experience*
 
 - Built scalable **React & Next.js applications** for business dashboards and client portals  
-- Developed **cross-platform mobile apps** using React Native, integrating location tracking & reporting features  
 - Optimized performance and refactored legacy code for maintainability and scalability  
 - Collaborated with backend developers (Spring Boot & REST API) to deliver production-ready applications  
 - Implemented **state management** using React Query, Zustand, Formik, and Zod for type-safe forms  
@@ -43,7 +42,6 @@ Currently developing:
 
 ### 🎨 Frontend Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -71,39 +69,16 @@ Currently developing:
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
----
-
-### ✨ My Coding Principles
-
-<pre style="font-family: 'JetBrains Mono', monospace;">
-const myApproach = {
-  architecture: "Clean & scalable",
-  types: "TypeScript everywhere (no 'any'!)",
-  components: "Reusable & composable",
-  code: "Self-documenting & maintainable",
-  performance: "Optimized & lightning-fast",
-  collaboration: "Open, transparent, learning"
-};
-</pre>
-
----
-
 ## 📊 GitHub Journey
 
 <pre style="font-family: 'JetBrains Mono', monospace;">
 🎯 Current Focus Areas:
 ├─ 📈 Building performant React applications
-├─ 🏗️  Learning system design & architecture
+├─ 🏗️ Learning system design & architecture
 ├─ 🔧 Contributing to open-source projects
-├─ 📚 Mastering Spring Boot for backend
+├─ 📚 Exploring Spring Boot for backend
 └─ 🚀 Shipping production-ready code daily
 </pre>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shajedwali&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF)
-
-</div>
 
 ---
 
@@ -112,7 +87,7 @@ const myApproach = {
 <div align="center">
 
 **I'm always open to:**  
-💼 Frontend & React Native opportunities  
+💼 Frontend opportunities  
 🎯 Interesting project collaborations  
 🌱 Knowledge sharing & mentoring  
 💡 Building cool things together
